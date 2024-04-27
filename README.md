@@ -6,6 +6,8 @@ For this assignment, I acted as a cybersecurity consultant for Humbleify, tasked
 
 The report sections are as follows:
 
+----------------------------------------------------------------------->
+
 Page 2: Executive Summary
 
 Page 3 to 4: Section 1 - Project Scope Details
