@@ -6,7 +6,7 @@ For this assignment, I acted as a cybersecurity consultant for Humbleify, tasked
 
 Technologies used:
 
-The report sections are as follows:
+The report sections are as follows: Metasploit, Nmap, CeWL, Hashcat, Hydra, Nessus
 
 ----------------------------------------------------------------------->
 
