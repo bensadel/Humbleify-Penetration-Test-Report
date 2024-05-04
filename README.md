@@ -4,7 +4,7 @@ Final project for: https://security-assignments.com/projects/
 
 For this assignment, I acted as a cybersecurity consultant for Humbleify, tasked with discovering vulnerabilities in their network systems.
 
-Technologies used: Kali Linux, Metasploit, Nmap, CeWL, Hashcat, Hydra, Nessus
+Technologies used: Kali Linux, Metasploit, Nmap, CeWL, Hashcat, Hydra THC, Nessus
 
 The report sections are as follows:
 
