@@ -1,6 +1,6 @@
 # Humbleify-Penetration-Test-Report
 
-Final project for: https://security-assignments.com/projects/
+Final project for: https://security-assignments.com
 
 For this assignment, I acted as a cybersecurity consultant for Humbleify, tasked with discovering vulnerabilities in their network systems.
 
