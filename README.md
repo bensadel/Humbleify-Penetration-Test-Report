@@ -2,7 +2,7 @@
 
 Final project for: https://security-assignments.com
 
-For this assignment, I acted as a cybersecurity consultant for Humbleify, tasked with discovering vulnerabilities in their network systems.
+I acted as a cybersecurity consultant for Humbleify, tasked with discovering vulnerabilities in their network systems.
 
 Technologies used: Kali Linux, Metasploit, Nmap, CeWL, Hashcat, Hydra THC, Nessus
 
