@@ -8,16 +8,16 @@ Technologies used: Kali Linux, Metasploit, Nmap, CeWL, Hashcat, Hydra THC, Nessu
 
 <h2>The report sections are as follows:</h2>
 
-Page 2: Executive Summary
+* Page 2: Executive Summary
 
-Page 3 to 4: Section 1 - Project Scope Details
+* Page 3 to 4: Section 1 - Project Scope Details
 
-Page 5 to 6: Section 2 - Target of Assessment
+* Page 5 to 6: Section 2 - Target of Assessment
 
-Page 7 to 10: Section 3 - Relevant Findings
+* Page 7 to 10: Section 3 - Relevant Findings
 
-Page 11 to 39: Section 4 - Supporting Details
+* Page 11 to 39: Section 4 - Supporting Details
 
-Page 40 to 47: Section 5 - Mitigations utilizing NIST 800-53
+* Page 40 to 47: Section 5 - Mitigations utilizing NIST 800-53
 
-Page 48 to 41: Glossary
+* Page 48 to 41: Glossary
