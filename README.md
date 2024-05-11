@@ -6,9 +6,7 @@ I acted as a cybersecurity consultant for Humbleify, tasked with discovering vul
 
 Technologies used: Kali Linux, Metasploit, Nmap, CeWL, Hashcat, Hydra THC, Nessus
 
-The report sections are as follows:
-
------------------------------------------------------------------------>
+<h2>The report sections are as follows:</h2>
 
 Page 2: Executive Summary
 
