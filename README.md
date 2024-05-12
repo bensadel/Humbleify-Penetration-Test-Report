@@ -15,13 +15,13 @@ I acted as a cybersecurity consultant for Humbleify, tasked with discovering vul
 
 <h2>The report sections are as follows</h2>
 
-* Page 2: Executive Summary
+* <b>Page 2:<b> Executive Summary
 
-* Page 3 to 4: Section 1 - Project Scope Details
+* <b>Page 3 to 4:<b> Section 1 - Project Scope Details
 
-* Page 5 to 6: Section 2 - Target of Assessment
+* <b>Page 5 to 6:<b> Section 2 - Target of Assessment
 
-* Page 7 to 10: Section 3 - Relevant Findings
+* <b>Page 7 to 10:<b> Section 3 - Relevant Findings
 
 * Page 11 to 39: Section 4 - Supporting Details
 
