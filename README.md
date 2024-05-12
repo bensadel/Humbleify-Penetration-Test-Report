@@ -23,8 +23,8 @@ I acted as a cybersecurity consultant for Humbleify, tasked with discovering vul
 
 * <b>Page 7 to 10:</b> Section 3 - Relevant Findings
 
-* Page 11 to 39: Section 4 - Supporting Details
+* <b>Page 11 to 39:</b> Section 4 - Supporting Details
 
-* Page 40 to 47: Section 5 - Mitigations utilizing NIST 800-53
+* <b>Page 40 to 47:</b> Section 5 - Mitigations utilizing NIST 800-53
 
-* Page 48 to 41: Glossary
+* <b>Page 48 to 41:</b> Glossary
